@@ -3,6 +3,9 @@
 * cd to project root
 * execute './gradlew clean build run'
 
+# Time spent
+## about 3.5-4 hours
+
 # Task
 
 # Requirements
