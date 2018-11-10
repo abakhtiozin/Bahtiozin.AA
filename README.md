@@ -1,3 +1,10 @@
+# How to run
+* open Terminal
+* cd to project root
+* execute './gradlew clean build run'
+
+# Task
+
 # Requirements
 
 * Written in Java
